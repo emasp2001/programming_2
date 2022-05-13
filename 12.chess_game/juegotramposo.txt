@@ -1,0 +1,4 @@
+e4 e5
+Bc4 Nc6
+Qh5 Bc5
+Qe6
